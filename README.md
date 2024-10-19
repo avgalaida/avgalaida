@@ -8,7 +8,7 @@
 - Инструменты: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white), ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white), ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white), ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
 
 ### Мои пет-проекты:
-- 📝 **[NeuroDocParse](https://github.com/avgalaida/NeuroDocParse)** - Сервис для парсинга изображений документов с помощью нейронных сетей.
+- 📝 **[NeuroDocParse](https://github.com/avgalaida/NeuroDocParse)** - Микросервисы для парсинга изображений документов с помощью нейронных сетей. Kafka, YOLOv8, S3.
 - 🤖 **[kgu_chatbot](https://github.com/avgalaida/kgu_chatbot)** - Сервис, который отвечает на вопросы абитуриентов о поступлении в КГУ, используя LLM, S2T и T2S.
 - 💬 **[Messenger](https://github.com/avgalaida/Messenger)** - Мессенджер с UI для iOS, использующий GraphQL и сервер на .NET.
 - 📚 **[Library_Ggl_CQRS_ES](https://github.com/avgalaida/Library_Ggl_CQRS_ES)** - Проект на основе паттернов CQRS и Event Sourcing для управления библиотекой.
