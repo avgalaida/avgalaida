@@ -10,9 +10,9 @@
 ### Мои пет-проекты:
 - 📝 **[NeuroDocParse](https://github.com/avgalaida/NeuroDocParse)** - Сервис для парсинга изображений документов с помощью нейронных сетей.
 - 🤖 **[kgu_chatbot](https://github.com/avgalaida/kgu_chatbot)** - Сервис, который отвечает на вопросы абитуриентов о поступлении в КГУ, используя LLM, S2T и T2S.
-- 📊 **[logparse](https://github.com/avgalaida/logparse)** - Django-приложение для парсинга и агрегации логов Nginx.
 - 💬 **[Messenger](https://github.com/avgalaida/Messenger)** - Мессенджер с UI для iOS, использующий GraphQL и сервер на .NET.
 - 📚 **[Library_Ggl_CQRS_ES](https://github.com/avgalaida/Library_Ggl_CQRS_ES)** - Проект на основе паттернов CQRS и Event Sourcing для управления библиотекой.
+- 📊 **[logparse](https://github.com/avgalaida/logparse)** - Django-приложение для парсинга и агрегации логов Nginx.
 
 ### Связаться со мной:
 - 📧 Email: evaaxelrod@yandex.ru
