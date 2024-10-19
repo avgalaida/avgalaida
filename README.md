@@ -17,6 +17,6 @@
 - 📧 Email: evaaxelrod@yandex.ru
 - 💬 Telegram: [@uvyadayu](https://t.me/uvyadayu)
 
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=avgalaida&layout=compact&theme=default)
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=avgalaida&layout=compact&theme=vue)
 
 Спасибо, что заглянули! 🤝  
