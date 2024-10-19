@@ -18,6 +18,6 @@
 - 💬 Telegram: [@uvyadayu](https://t.me/uvyadayu)
 
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=avgalaida&layout=compact&theme=vue)
-![LeetCode Stats](https://leetcard.jacoblin.cool/uvyadayu?theme=wtf&font=Mitr&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/uvyadayu?theme=wtf&font=Mitr)
 
 Спасибо, что заглянули! 🤝  
