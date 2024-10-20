@@ -13,6 +13,7 @@
 - 💬 **[Messenger](https://github.com/avgalaida/Messenger)** - Мессенджер с UI для iOS, использующий GraphQL и сервер на .NET.
 - 📚 **[Library_Ggl_CQRS_ES](https://github.com/avgalaida/Library_Ggl_CQRS_ES)** - Проект на основе паттернов CQRS и Event Sourcing для управления библиотекой.
 - 📊 **[logparse](https://github.com/avgalaida/logparse)** - Django-приложение для парсинга и агрегации логов Nginx.
+- 💡 **[leetcode-solutions](https://github.com/avgalaida/leetcode-solutions)** - Мои решения задач с LeetCode. С  [React фронтом, задеплоиным на Vercel.](https://leetcode-solutions-six.vercel.app/)
 
 ### Связаться со мной:
 - 📧 Почта: evaaxelrod@yandex.ru
