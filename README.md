@@ -15,8 +15,8 @@
 - 📊 **[logparse](https://github.com/avgalaida/logparse)** - Django-приложение для парсинга и агрегации логов Nginx.
 
 ### Связаться со мной:
-- 📧 Email: evaaxelrod@yandex.ru
-- 💬 Telegram: [@uvyadayu](https://t.me/uvyadayu)
+- [![Yandex](https://img.shields.io/badge/Yandex_Mail-FF0000?style=flat&logo=mail.ru&logoColor=white)](mailto:evaaxelrod@yandex.ru) evaaxelrod@yandex.ru
+- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/uvyadayu) [@uvyadayu](https://t.me/uvyadayu)
 
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=avgalaida&layout=compact&theme=vue)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/uvyadayu?theme=wtf&font=Mitr)
