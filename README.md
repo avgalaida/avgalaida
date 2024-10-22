@@ -9,9 +9,9 @@
 
 ### Мои пет-проекты:
 - 📝 **[NeuroDocParse](https://github.com/avgalaida/NeuroDocParse)** - Микросервисы для AI парсинга изображений документов. YOLO, EasyOCR, Kafka, S3.
-- 🤖 **[kgu_chatbot](https://github.com/avgalaida/kgu_chatbot)** - Сервис, который отвечает на вопросы абитуриентов о поступлении в КГУ, используя LLM, S2T и T2S.
+- 🤖 **[kgu-chatbot](https://github.com/avgalaida/kgu-chatbot)** - Сервис, который отвечает на вопросы абитуриентов о поступлении в КГУ, используя LLM, S2T и T2S.
 - 💬 **[Messenger](https://github.com/avgalaida/Messenger)** - Мессенджер с UI для iOS, использующий GraphQL и сервер на .NET.
-- 📚 **[Library_Ggl_CQRS_ES](https://github.com/avgalaida/Library_Ggl_CQRS_ES)** - Проект на основе паттернов CQRS и Event Sourcing для управления библиотекой.
+- 📚 **[library-event-sourcing](https://github.com/avgalaida/library-event-sourcing)** - Проект на основе паттернов CQRS и Event Sourcing для управления библиотекой.
 - 📊 **[logparse](https://github.com/avgalaida/logparse)** - Django-приложение для парсинга и агрегации логов Nginx.
 - 💡 **[leetcode-solutions](https://github.com/avgalaida/leetcode-solutions)** - Мои решения задач с LeetCode. С  [React фронтом, задеплоиным на Vercel.](https://leetcode-solutions-six.vercel.app/)
 
