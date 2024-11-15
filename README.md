@@ -17,7 +17,7 @@
 
 ### Связаться со мной:
 - 📧 Почта: evaaxelrod@yandex.ru
-- 💬 Телеграм: [@uvyadayu](https://t.me/uvyadayu)
+- 💬 Телеграм: [@uvyadayu](https://t.me/avgalaida)
 
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=avgalaida&layout=compact&theme=vue)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/uvyadayu?theme=wtf&font=Mitr)
